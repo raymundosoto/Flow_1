@@ -11,3 +11,5 @@ Cambios del día de hoy
 Commite con el plugin de github
 
 Líneas adicionales con plugin de github
+
+Se han realizado cambios con diversas herramientas
